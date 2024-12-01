@@ -29,20 +29,6 @@
       "price": "22.99$"
     },
     {
-      "id": 3,
-      "name": "Donkey Kong",
-      "game": "Donkey Kong Country",
-      "role": "Héros fort",
-      "description": "Donkey Kong est un gorille musclé qui protège ses bananes et combat ses ennemis.",
-      "image": "",
-      "abilities": [
-        "Force surhumaine",
-        "Lancer de tonneaux",
-        "Compétences en saut"
-      ],
-      "price": "24.99$"
-    },
-    {
       "id": 4,
       "name": "Toad",
       "game": "Super Mario Bros.",
@@ -55,20 +41,6 @@
         "Connaissance des niveaux"
       ],
       "price": "18.99$"
-    },
-    {
-      "id": 5,
-      "name": "Princess Daisy",
-      "game": "Super Mario Land",
-      "role": "Princesse énergique",
-      "description": "Princess Daisy est une princesse intrépide et l'amie de Mario qui prend souvent part aux aventures.",
-      "image": "",
-      "abilities": [
-        "Flottabilité",
-        "Compétences en combat",
-        "Soutien aux héros"
-      ],
-      "price": "21.99$"
     },
     {
       "id": 6,
@@ -141,7 +113,63 @@
       "price": "17.99$"
     },
     {
-      "id": 1,
+      "id": 11,
+      "name": "Kirby",
+      "game": "Kirby's Dream Land",
+      "role": "Héros rondouillard et gourmand",
+      "description": "Kirby est un petit personnage rond et rose, capable d'aspirer ses ennemis et d'absorber leurs pouvoirs.",
+      "image": "",
+      "abilities": [
+        "Aspiration d'ennemis",
+        "Absorption de pouvoirs",
+        "Vol"
+      ],
+      "price": "14.99$"
+    },
+    {
+      "id": 12,
+      "name": "Poochy",
+      "game": "Yoshi's Woolly World",
+      "role": "Chien compagnon de Yoshi",
+      "description": "Poochy est un chien tout doux et affectueux qui accompagne Yoshi dans ses aventures.",
+      "image": "",
+      "abilities": [
+        "Sauter avec Yoshi",
+        "Attaque rapide",
+        "Course rapide"
+      ],
+      "price": "16.99$"
+    },
+    {
+      "id": 18,
+      "name": "Chica",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique poule",
+      "description": "Chica est une animatronique agressive qui aime manger de la pizza. Elle apparaît souvent pour effrayer le joueur.",
+      "image": "",
+      "abilities": [
+        "S'infiltre silencieusement",
+        "Brise la porte pour attaquer",
+        "Capacité à se déplacer rapidement"
+      ],
+      "price": "27.00$"
+    },
+    {
+      "id": 20,
+      "name": "Golden Freddy",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique spectral",
+      "description": "Golden Freddy est une version fantomatique de Freddy, apparaissant soudainement et déclenchant des événements paranormaux.",
+      "image": "",
+      "abilities": [
+        "Apparitions soudaines",
+        "Effets paranormaux",
+        "Peut apparaître et disparaître"
+      ],
+      "price": "35.00$"
+    },
+    {
+      "id": 21,
       "title": "Super Mario Odyssey",
       "platform": "Nintendo Switch",
       "price": 59.99,
@@ -149,7 +177,7 @@
       "image": "assets/"
     },
     {
-      "id": 2,
+      "id": 22,
       "title": "The Legend of Zelda: Breath of the Wild",
       "platform": "Nintendo Switch",
       "price": 59.99,
@@ -157,7 +185,7 @@
       "image": "assets/"
     },
     {
-      "id": 3,
+      "id": 23,
       "title": "Horizon Forbidden West",
       "platform": "PlayStation 5",
       "price": 69.99,
@@ -165,7 +193,7 @@
       "image": "assets/"
     },
     {
-      "id": 4,
+      "id": 24,
       "title": "God of War: Ragnarök",
       "platform": "PlayStation 5",
       "price": 69.99,
@@ -173,7 +201,7 @@
       "image": "assets/"
     },
     {
-      "id": 5,
+      "id": 25,
       "title": "Final Fantasy XVI",
       "platform": "PlayStation 5",
       "price": 79.99,
@@ -181,15 +209,7 @@
       "image": "assets/"
     },
     {
-      "id": 6,
-      "title": "Forza Horizon 5",
-      "platform": "Xbox Series X|S, PC",
-      "price": 59.99,
-      "description": "Explore le Mexique dans ce jeu de course spectaculaire en monde ouvert.",
-      "image":"assets/"
-    },
-    {
-      "id": 7,
+      "id": 27,
       "title": "Elden Ring",
       "platform": "PlayStation, Xbox, PC",
       "price": 59.99,
@@ -197,37 +217,46 @@
       "image": "assets/"
     },
     {
-      "id": 8,
+      "id": 28,
       "title": "Sonic Frontiers",
       "platform": "PlayStation, Xbox, Nintendo Switch, PC",
       "price": 59.99,
-      "description": "Explorez des îles mystérieuses avec Sonic dans ce jeu en monde ouvert.",
+      "description": "Sonic explore un monde ouvert pour la première fois et fait face à de nouveaux défis.",
       "image": "assets/"
     },
     {
-      "id": 10,
-      "title": "EA Sports FC 24",
-      "platform": "PlayStation 5, Xbox Series X|S, PC, Nintendo Switch",
-      "price": 69.99,
-      "description": "Le successeur de FIFA avec des graphismes et un gameplay de pointe.",
-      "image":"assets/"
-    },
-    {
-      "id": 11,
-      "title": "FIFA 23",
-      "platform": "PlayStation, Xbox, Nintendo Switch, PC",
-      "price": 59.99,
-      "description": "Le dernier FIFA sous ce nom, avec le mode Coupe du Monde et des équipes féminines.",
-      "image": "assets/"
-    },
-     {
-      "id": 12,
-      "title": "Marvel's Spider-Man 2",
+      "id": 29,
+      "title": "Spider-Man 2",
       "platform": "PlayStation 5",
-      "price": 79.99,
-      "description": "Incarnez Peter Parker et Miles Morales dans cette aventure spectaculaire contre Venom et Kraven.",
-      "image":"assets/"
+      "price": 69.99,
+      "description": "Spider-Man affronte des menaces de taille tout en jonglant avec sa vie personnelle.",
+      "image": "assets/"
+    },
+    {
+      "id": 30,
+      "title": "Super Smash Bros. Ultimate",
+      "platform": "Nintendo Switch",
+      "price": 59.99,
+      "description": "Le jeu de combat ultime avec tous les personnages de Nintendo et bien plus.",
+      "image": "assets/"
+    },
+    {
+      "id": 45,
+      "title": "New Super Lucky's Tale",
+      "platform": "Nintendo Switch, Xbox One, PlayStation 4, PC",
+      "price": 29.99,
+      "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
+      "image": "assets/"
+    },
+    {
+      "id": 49,
+      "name": "Five Nights at Freddy's 4",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+      "genre": "Horreur, Survival",
+      "release_date": "2015-07-23",
+      "price": "26.99$",
+      "description": "Le joueur se retrouve dans la chambre d'un enfant, faisant face à des animatroniques plus terrifiants dans un cadre encore plus effrayant.",
+      "image": ""
     }
-    
   ]
 }
