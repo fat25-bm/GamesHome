@@ -20,7 +20,7 @@
       "game": "Super Mario World",
       "role": "Compagnon de Mario",
       "description": "Yoshi est un dinosaure amical qui aide Mario avec ses compétences uniques.",
-      "image": "",
+      "image": "yochi.jpeg",
       "abilities": [
         "Manger des ennemis",
         "Saut élevé",
@@ -34,7 +34,7 @@
       "game": "Super Mario Bros.",
       "role": "Ami et guide",
       "description": "Toad aide Mario dans ses aventures et est connu pour sa bravoure et son courage.",
-      "image": "",
+      "image": "toad.jpg",
       "abilities": [
         "Saut court mais rapide",
         "Collecte d’objets",
@@ -48,7 +48,7 @@
       "game": "Super Mario Series",
       "role": "Rival de Luigi",
       "description": "Waluigi est l'antagoniste de Luigi, connu pour sa malice et son attitude farfelue.",
-      "image": "",
+      "image": "Waluigi.jpg",
       "abilities": [
         "Tactiques sournoises",
         "Saut rapide",
@@ -62,7 +62,7 @@
       "game": "Super Mario Series",
       "role": "Rival de Mario",
       "description": "Wario est le rival de Mario, obsédé par l’argent et le pouvoir. Il est fort et aime les aventures risquées.",
-      "image": "",
+      "image": "wario.jpg",
       "abilities": [
         "Force surhumaine",
         "Vitesse",
@@ -76,7 +76,7 @@
       "game": "Super Mario Bros.",
       "role": "Ennemi classique",
       "description": "Koopa Troopa est une tortue qui apparaît souvent comme un ennemi dans les jeux Mario.",
-      "image": "",
+      "image": "Mr_ Koopa.jpg",
       "abilities": [
         "Coquille résistante",
         "Saut léger",
@@ -90,7 +90,7 @@
       "game": "Super Mario Bros.",
       "role": "Antagoniste principal",
       "description": "Bowser est le principal ennemi de Mario, un puissant roi des Koopa.",
-      "image": "",
+      "image": "bowser.jpeg",
       "abilities": [
         "Feu explosif",
         "Attaque puissante",
@@ -104,7 +104,7 @@
       "game": "Super Mario Series",
       "role": "Ennemi caché",
       "description": "Shy Guy est un personnage timide souvent vêtu d’un masque et qui se cache derrière son apparence mystérieuse.",
-      "image": "",
+      "image": "Shy Guy.jpg",
       "abilities": [
         "Discrétion",
         "Attaque furtive",
@@ -118,7 +118,7 @@
       "game": "Kirby's Dream Land",
       "role": "Héros rondouillard et gourmand",
       "description": "Kirby est un petit personnage rond et rose, capable d'aspirer ses ennemis et d'absorber leurs pouvoirs.",
-      "image": "",
+      "image": "kirby.jpg",
       "abilities": [
         "Aspiration d'ennemis",
         "Absorption de pouvoirs",
@@ -132,7 +132,7 @@
       "game": "Yoshi's Woolly World",
       "role": "Chien compagnon de Yoshi",
       "description": "Poochy est un chien tout doux et affectueux qui accompagne Yoshi dans ses aventures.",
-      "image": "",
+      "image": "poochy.jpg",
       "abilities": [
         "Sauter avec Yoshi",
         "Attaque rapide",
@@ -146,7 +146,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Animatronique poule",
       "description": "Chica est une animatronique agressive qui aime manger de la pizza. Elle apparaît souvent pour effrayer le joueur.",
-      "image": "",
+      "image": "chica.jpg",
       "abilities": [
         "S'infiltre silencieusement",
         "Brise la porte pour attaquer",
