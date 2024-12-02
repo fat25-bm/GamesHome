@@ -257,6 +257,15 @@
       "price": "26.99$",
       "description": "Le joueur se retrouve dans la chambre d'un enfant, faisant face à des animatroniques plus terrifiants dans un cadre encore plus effrayant.",
       "image": "Five Nights at Freddy's.jpg"
+    },
+     {
+      "id": 50,
+      "name": "Minecraft",
+      "platform": " Nintendo Switch, Xbox One, ChromeOS",
+      "genre": "Jeu de survie, Jeu d'action-aventure, Gameplay non linéaire",
+      "price": "29,99$",
+      "description": "les joueurs explorent un monde tridimensionnel généré de manière procédurale avec un terrain virtuellement infini composé de voxels . Les joueurs peuvent découvrir et extraire des matières premières, fabriquer des outils et des objets, et construire des structures",
+      "image": "Minecraft.jpg"
     }
   ]
 }
